@@ -1,6 +1,5 @@
 # flask-opencv-live-stream
-Shape predictor app on web based
-
+Shape predictor app on web based with caching mechanism but slow becasue dlib process and python slow....
 
 CREATE VENV for  WINDOWS:
 
